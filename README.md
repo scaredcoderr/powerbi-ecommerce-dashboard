@@ -16,3 +16,5 @@ A Power BI dashboard built to visualize order data for an e-commerce platform.
 
 ## 📁 Files
 - `Ecommerce_Sales_Dashboard.pbix` – The full Power BI file
+
+⚠️ Note: The `.pbix` file may appear as a `.zip` on GitHub, but it is a Power BI file. Download and open it in Power BI Desktop.
